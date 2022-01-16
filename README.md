@@ -1,7 +1,3 @@
-# 🚧 ...under construction! 👷‍♂️
-
----
-
 # Ambiente docker para desenvolvimento com PHP 7 apache, Xdebug 2.8 e MySql 5.7
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -13,7 +9,7 @@
 ## Requisitos
 ✔️ Docker  
 ✔️ docker-compose  
-✔️ Idea preferêncialmente PhpStorm  
+✔️ Idea utilizada PhpStorm  
 
 ### Informações importantes
 **Pasta raiz do projeto** `src` "Adicione dentro desta pasta os arquivos `.php`"  
